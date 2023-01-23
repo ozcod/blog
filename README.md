@@ -1,5 +1,5 @@
 # BookShop  
-> Technology Used: React,Node.js and MySQL (CRUD) .
+> Technology Used: MERNstack MongoDB,Express,React,Node.js and MySQL (CRUD) .
 
 MySQL CRUD Operations using Node.js and React. CRUD Real-world Project from scratch. Create, Read, Update and Delete data using a MySQL database.
 
